@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rasanna_MERN_React_Task2-main/static/css/main.c668521c.css",
+    "main.js": "/rasanna_MERN_React_Task2-main/static/js/main.1877ecff.js",
+    "static/js/787.cb3f2434.chunk.js": "/rasanna_MERN_React_Task2-main/static/js/787.cb3f2434.chunk.js",
+    "static/media/logo.svg": "/rasanna_MERN_React_Task2-main/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rasanna_MERN_React_Task2-main/index.html",
+    "main.c668521c.css.map": "/rasanna_MERN_React_Task2-main/static/css/main.c668521c.css.map",
+    "main.1877ecff.js.map": "/rasanna_MERN_React_Task2-main/static/js/main.1877ecff.js.map",
+    "787.cb3f2434.chunk.js.map": "/rasanna_MERN_React_Task2-main/static/js/787.cb3f2434.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c668521c.css",
+    "static/js/main.1877ecff.js"
+  ]
+}
